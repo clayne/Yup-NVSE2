@@ -3,7 +3,7 @@ Howdy.
 
 # How to Install
 
-Download the [Yup](https://github.com/ipv451/Yup/releases/download/Yup/Yup_1.0.rar) in the releases tab or clink the link.
+Download the [Yup](https://github.com/ipv451/Yup/releases/download/Yup/Yup_1.0.rar) file in the releases tab or clink the link.
 
 Then Grab your mod manager.  Mine is [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer).  Drag the rar into the Downloads tab then install.
 
